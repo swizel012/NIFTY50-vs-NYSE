@@ -6,7 +6,7 @@ This project visualizes the stock index trends of **NYSE (2023-24)** and **NIFTY
 
 - `stock_data.xlsx`: Contains the historical data for NYSE and NIFTY50.
 - `Book2.twb`: Tableau workbook with animation.
-- `stock_index_animation.mp4`: Exported animated visualization.
+- `animation.gif`: Exported animated visualization.
 - `README.md`: Project description.
 
 ## 📅 Data Used
@@ -29,7 +29,7 @@ Each record includes:
 
 _A preview of the animation
 
-![Animation Preview](https://github.com/swizel012/NIFTY50-vs-NYSE/blob/main/animation.mp4)  
+![Animation Preview](animation.gif)  
 
 ## 📌 How to Use
 
